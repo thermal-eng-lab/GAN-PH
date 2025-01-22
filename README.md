@@ -4,7 +4,8 @@ This repository presents training a WGAN-gp model for generation of realistic 3D
 
 # Introduction
 A generative adversarial network (GAN) model was developed to generate artificial microstructure datasets for SOCs electrodes while controlling volume fraction and specific surface area. Persistent homology analysis further validated the model's ability to capture hidden topological features, demonstrating its effectiveness in generating high-quality microstructures for SOC optimization.
-![graphical_abstract](https://github.com/user-attachments/assets/dc82744d-8f85-493b-9bca-e6be257caa09)
+![graphical_abstract](https://github.com/user-attachments/assets/70e6b04b-8bc0-4fab-9fa0-016094c8eac4)
+
 
 
 # Installation Instructions
